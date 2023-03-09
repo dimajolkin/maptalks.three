@@ -1,11 +1,11 @@
 {
-  "name": "maptalks.three",
+  "name": "maptalks.three-without-vertextColor",
   "version": "0.35.2",
   "description": "A maptalks Layer to render with THREE.js.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maptalks/maptalks.three.js.git"
+    "url": "https://github.com/dimajolkin/maptalks.three.js.git"
   },
   "files": [
     "dist/"

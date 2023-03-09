@@ -1,3 +1,12 @@
+# Fix Vestion 
+ThreeAdaptUtil.ts::getVertexColors() - always return TRUE
+
+Problem:
+```
+export 'VertexColors' (imported as 'THREE') was not found in 'three' ...
+```
+
+
 # maptalks.three
 
 [![CircleCI](https://circleci.com/gh/maptalks/maptalks.three/tree/master.svg?style=shield)](https://circleci.com/gh/maptalks/maptalks.three)
